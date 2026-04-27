@@ -15,10 +15,10 @@ StereoLearn/
 ├── README.md                              # This file
 ├── userguide.pdf                          # User guide for the StereoLearn website
 └── auto-grading/                          # Source code for automatic grading algorithms
-    ├── Fischer.ipynb                        # Fischer projection validation (PHP logic, notebook format)
-    ├── Haworth_5C.ipynb                # Haworth projection validation — furanose (5-membered ring)
-    ├── Haworth_6C.ipynb                # Haworth projection validation — pyranose (6-membered ring)
-    └── 6 Molfiles for testing                # 1key + 2 input for each algorithm
+    ├── Fischer.ipynb                      # Fischer projection validation (PHP logic, notebook format)
+    ├── Haworth_5C.ipynb                   # Haworth projection validation — furanose (5-membered ring)
+    ├── Haworth_6C.ipynb                   # Haworth projection validation — pyranose (6-membered ring)
+    └── 6 Molfiles for testing             # 1 key + 2 input test .mol files for each algorithm
 ```
 
 ## Cite this work
