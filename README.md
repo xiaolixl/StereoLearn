@@ -8,19 +8,20 @@ StereoLearn is a web-based platform designed to help students develop representa
 
 ---
 
-## Repository Contents
+## Contents
 
 ```
 StereoLearn/
 ├── README.md                              # This file
 ├── userguide.pdf                          # User guide for the StereoLearn website
 └── auto-grading/                          # Source code for automatic grading algorithms
-    ├── chem.cls_prse_Fischer.ipynb        # Fischer projection validation (PHP logic, notebook format)
-    ├── harwoth_5C_en.ipynb                # Haworth projection validation — furanose (5-membered ring)
-    └── harwoth_6C_en.ipynb                # Haworth projection validation — pyranose (6-membered ring)
+    ├── Fischer.ipynb                        # Fischer projection validation (PHP logic, notebook format)
+    ├── Haworth_5C.ipynb                # Haworth projection validation — furanose (5-membered ring)
+    ├── Haworth_6C.ipynb                # Haworth projection validation — pyranose (6-membered ring)
+    └── 6 Molfiles for testing                # 1key + 2 input for each algorithm
 ```
 
-## Publication
+## Cite this work
 
 > Li, X.; Hu, C.; Su, Y.; Lu, H. "StereoLearn: An Online Platform for Learning and Automatic Grading of Organic Structure Representations." *Journal of Chemical Education*, 2026.
 
@@ -37,4 +38,4 @@ We welcome academic collaborations to jointly advance chemical education. For an
 
 ## License
 
-© 2025–2026 Xiao Li, Peking University. All rights reserved.
+© 2026 Dr. Xiao Li. All rights reserved.
