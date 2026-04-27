@@ -34,8 +34,3 @@ We welcome academic collaborations to jointly advance chemical education. For an
 📧 Contact: xiaoli@pku.edu.cn
 
 ---
-
-
-## License
-
-© 2026 Dr. Xiao Li. All rights reserved.
